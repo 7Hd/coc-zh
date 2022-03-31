@@ -1,3 +1,5 @@
+name: Gitbook Publish
+on: [push]
 jobs:
   build:
     name: Build Gitbook
